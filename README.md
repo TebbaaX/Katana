@@ -16,6 +16,7 @@ python3 pip install -r requirments
 ```python
 cd Katana
 python3 katana-ds.py -h (for help)
+Options :
 -h :to show help
 -g :for google mode
 -s :for scada mode
