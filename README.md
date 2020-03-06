@@ -14,7 +14,7 @@ cd Katana
 python3 pip install -r requirments
 python3 katana-ds.py 
 ```
-### Tested on Windows [ConEmu](https://conemu.github.io/) [![Github All Releases](https://conemu.github.io/img/logo.png)]()
+### Tested on Windows [ConEmu](https://conemu.github.io/) [![Github All Releases](https://conemu.github.io/img/logo.png)]() :
 ## Usage :
 ```python
 cd Katana
