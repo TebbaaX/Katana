@@ -6,14 +6,13 @@
 
 Katana is a simple python tool that automates Google Hacking/Dorking and support Tor  
 It becomes a more powerfull in combinision with [GHDB](https://www.exploit-db.com/google-hacking-database)
-## Installation
-
+## Installation :
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirments
 ```bash
 python3 pip install -r requirments
-
-## Usage
+```
+## Usage :
 ```python
 cd Katana
 python3 katana-ds.py 
