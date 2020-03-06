@@ -10,7 +10,9 @@ It becomes a more powerfull in combinision with [GHDB](https://www.exploit-db.co
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirments
 ```bash
+cd Katana
 python3 pip install -r requirments
+python3 katana-ds.py 
 ```
 ### Tested on Windows [ConEmu](https://conemu.github.io/) [![Github All Releases](https://conemu.github.io/img/logo.png)]()
 ## Usage :
