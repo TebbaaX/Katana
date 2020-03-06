@@ -12,6 +12,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirm
 ```bash
 python3 pip install -r requirments
 ```
+# tested on Windows ConEmu [![Github All Releases](https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png)]()
 ## Usage :
 ```python
 cd Katana
