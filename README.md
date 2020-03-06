@@ -20,7 +20,6 @@ python3 katana-ds.py
 cd Katana
 python3 katana-ds.py -h (for help)
 Options :
--h :to show help
 -g :for google mode
 -s :for scada mode
 -t :for tor mode
