@@ -12,3 +12,9 @@ It becomes a more powerfull in combinision with [GHDB](https://www.exploit-db.co
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirments
 ```bash
 python3 pip install -r requirments
+
+## Usage
+```python
+cd Katana
+python3 katana-ds.py 
+```
