@@ -25,3 +25,4 @@ Options :
 -s :for scada mode
 -t :for tor mode
 ```
+## Google Mode :
