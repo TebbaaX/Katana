@@ -1,0 +1,201 @@
+***  List of TLDs (Top Level Domains) ***
+***  Adnane Tebbaa/Katana-Dork-Scanner
+***  To use for Katana dork scanner http://www.github.com/adnane-x-tebbaa
+***  from A to Z
+
+ Ascension Island 	           ac
+ Andorra 	     	           ad 	
+ United Arab Emirates 	       ae
+ Afghanistan 	     	       com.af
+ Antigua and Barbuda 	       com.ag 	
+ Anguilla 	        	       com.ai 	
+ Albania 		               al 	
+ Armenia 	                   am 	
+ Angola 	 	               co.ao 	
+ Argentina 		               com.ar 	
+ American Samoa 	           as
+ Austria 	                   at
+ Australia 	                   com.au 	
+ Azerbaijan 	               az 	
+ Bosnia and Herzegovina 	   ba 	
+ Bangladesh 	               com.bd 	
+ Belgium 	                   be 	
+ Burkina Faso 	               bf 	
+ Bulgaria 	                   bg 	
+ Bahrain 	                   bh 	
+ Burundi 	                   bi 	
+ Benin                         bj 	
+ Brunei                        bn 	
+ Bolivia 	                   bo 	
+ Brazil 	                   com.br 	
+ Bahamas 	                   bs
+ Bhutan 	                   bt
+ Botswana 	                   co.bw 	
+ Belarus 	                   by 	
+ Belize                        com.bz 	
+ Canada 	                   ca 
+ Cambodia                      com.kh 	
+ Cocos (Keeling) Islands 	   cc
+ Congo 	                       cd 	
+ Central African Republic 	   cf
+ Republic of the Congo 	       cg 
+ Switzerland 	               ch 
+ Ivory Coast 	               ci
+ Cook Islands 	               ck 	
+ Chile 	                       cl 	
+ Cameroon 	                   cm 	
+ China 	                       cn 	
+ Colombia 	                   com.co 	
+ Costa Rica 	               co.cr 	
+ Cuba 	                       com.cu 	
+ Cape Verde 	               cv
+ Cyprus 	                   com.cy 	
+ Czech Republic 	           cz 	
+ Germany 	                   de 	
+ Djibouti 	                   dj 	
+ Denmark 	                   dk 	
+ Dominica 	                   dm 	
+ Dominican Republic 	       com.do 	
+ Algeria 	                   dz 
+ Ecuador 	                   com.ec 	
+ Estonia 	                   ee 	
+ Egypt 	                       com.eg 	
+ Spain 	                       es 	
+ Ethiopia 	                   com.et 	
+ Finland 	                   fi 	
+ Fiji 	                       com.fj 		
+ France 	                   fr 	
+ Gabon 	                       ga 	
+ Georgia 	                   ge 
+ French Guiana 	               gf 	
+ Guernsey 	                   gg 
+ Ghana 	                       com.gh 	
+ Gibraltar 	                   com.gi 	
+ Greenland 	                   gl 
+ Gambia 	                   gm 	
+ Guadeloupe 	               gp 	
+ Greece 	                   gr 	
+ Guatemala 	                   com.gt 	
+ Guyana 	                   gy 	
+ Hong Kong 	                   com.hk 	
+ Honduras 	                   hn 	
+ Croatia                       hr 	
+ Haiti 	                       ht 	
+ Hungary 	                   hu 	
+ Indonesia 	                   co.id 	
+ Iraq 	                       iq 
+ Ireland 	                   ie 	
+ Israel 	                   il 	
+ Isle of Man 	               im 	
+ India 	                       co.in 
+ British Indian Ocean Territory io 	
+ Iceland 	                    is 	
+ Italy 	                        it 	
+ Jersey 	                    je 	
+ Jamaica  	                    com.jm 	
+ Jordan 	                    jo 	
+ Japan 	                        co.jp 
+ Kenya 	                        co.ke 	
+ Kiribati 	                    ki 	
+ Kyrgyzstan 	                kg 	
+ South Korea 	                co.kr 	
+ Kuwait 	                    com.kw 	
+ Kazakhstan 	                kz 
+ Laos 	                        la 
+ Lebanon 	                    com.lb 	
+ Saint Lucia 	                com.lc 	
+ Liechtenstein                  li 	
+ Sri Lanka 	                    lk 	
+ Lesotho 	                    co.ls 	
+ Lithuania 	                    lt	
+ Luxembourg 	                lu
+ Latvia 	                    lv 	
+ Libya 	                        com.ly 	
+ Morocco                        co.ma 	
+ Moldova 	                    md 	
+ Montenegro 	                me
+ Madagascar 	                mg
+ Macedonia 	                    mk  	
+ Mali 	                        ml 
+ Myanmar 	                    com.mm 	
+ Mongolia 	                    mn 	
+ Montserrat 	                ms
+ Malta 	                        com.mt 	
+ Mauritius 	                    mu 	
+ Maldives 	                    mv 	
+ Malawi 	                    mw 	
+ Mexico 	                    com.mx 	
+ Malaysia 	                    com.my 	
+ Mozambique 	                co.mz 	
+ Namibia 	                    com.na 	
+ Niger 	                        ne 	
+ Norfolk Island                 com.nf 	
+ Nigeria 	                    com.ng 	
+ Nicaragua 	                    com.ni 	
+ Netherlands 	                nl 	
+ Norway 	                    no 	
+ Nepal 	                        com.np 	
+ Nauru 	                        nr 	
+ Niue 	                        nu 	
+ New Zealand 	                co.nz 	
+ Oman 	                        com.om 	
+ Pakistan 	                    com.pk 	
+ Panama 	                    com.pa 	
+ Peru 	                        com.pe 	
+ Philippines                    com.ph 	
+ Poland 	                    pl 	
+ Papua New Guinea 	            com.pg 	
+ Pitcairn Islands 	            pn 	
+ Puerto Rico 	                com.pr 	
+ Palestine   	                ps 	
+ Portugal 	                    pt
+ Paraguay 	                    com.py 	
+ Qatar 	                        com.qa 	
+ Romania 	                    ro
+ Serbia                         rs
+ Russia 	                    ru 	
+ Rwanda 	                    rw 	
+ Saudi Arabia 	                com.sa
+ Solomon Islands                com.sb 	
+ Seychelles 	                sc 	
+ Sweden                         se 	
+ Singapore 	                    com.sg 	
+ Slovenia                       si
+ Slovakia 	                    sk
+ Sierra Leone                   com.sl 	
+ Senegal 	                    sn 	
+ San Marino 	                sm 	
+ Somalia 	                    so 	
+ São Tomé and Príncipe 	        st 	
+ Suriname 	                    sr 	
+ El Salvador 	                com.sv 	
+ Chad 	                        td 	
+ Togo 	                        tg 	
+ Thailand 	                    co.th 	
+ Tajikistan 	                com.tj 	
+ Tokelau 	                    tk 	
+ Timor-Leste 	                tl 	
+ Turkmenistan                   tm 
+ Tonga 		                    to 	
+ Tunisia 	                    tn 	
+ Turkey 	                    com.tr 	
+ Trinidad and Tobago            tt 	
+ Taiwan 	                    com.tw 	
+ Tanzania                       co.tz 	
+ Ukraine                        com.ua 	
+ Uganda 	                    co.ug 	
+ United Kingdom 	            co.uk 	
+ United States 	                com 	
+ Uruguay 	                    com.uy 	
+ Uzbekistan 	                co.uz 	
+ Venezuela 	                    co.ve 
+ British Virgin Islands 	    vg 	
+ United States Virgin Islands 	co.vi 	
+ Vietnam 	                    com.vn 	
+ Vanuatu 	                    vu 	
+ Samoa 	 	                    ws 	
+ South Africa                   co.za 	
+ Zambia 		                co.zm 	
+ Zimbabwe 	                    co.zw 	
+
+
