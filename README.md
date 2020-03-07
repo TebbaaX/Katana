@@ -6,7 +6,7 @@
 Katana-ds (ds for dork_scanner) is a simple python tool that automates Google Hacking/Dorking and support Tor  
 It becomes a more powerfull in combinision with [GHDB](https://www.exploit-db.com/google-hacking-database)
 
-![alt text] (https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/img1.jpg)
+[alt text] (https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/img1.jpg)
 
 ## Installation :
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirments
