@@ -32,5 +32,5 @@ e.g : com for Usa / co.ma for Morocoo / be for Belgium
 
 For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/Katana/blob/master/TLDs.txt) file
 
-![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/google-m.jpg)
+![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/google-m.PNG)
 
