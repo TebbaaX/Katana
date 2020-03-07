@@ -26,5 +26,8 @@ Options :
 -t :for tor mode
 ```
 ## Google Mode :
-Google mode gives you 2 inputs the "Dork" and the "TLD" (Top Level Domain) that gives you ability to search in specific countries e.g : com for Usa / co.ma for Morocoo / be for Belgium 
+Google mode gives you 2 inputs the "Dork" and the "TLD" (Top Level Domain) that gives you ability to search in specific countries 
+
+e.g : com for Usa / co.ma for Morocoo / be for Belgium
+
 for more please see the TLDs.txt file
