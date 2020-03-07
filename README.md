@@ -26,11 +26,16 @@ Options :
 -t :for tor mode
 ```
 ## Google Mode :
-Google mode gives you 2 inputs the "Dork" and the "TLD" (Top Level Domain) that gives you ability to search in specific countries 
+Google mode gives you 2 inputs the "Dork" and the "TLD" (Top Level Domain) that gives you ability to search in specific countries.
 
 e.g : com for Usa / co.ma for Morocoo / be for Belgium
 
-For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/Katana/blob/master/TLDs.txt) file
+For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/Katana/blob/master/TLDs.txt) file.
 
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/google-m.PNG)
 
+## Scada Mode :
+Scada mode search in google for online PLCs this actually use multiple requests so your ip will be blocked by Google
+so changing the TLD will solve the probleme and the script provides inputs for that.
+
+![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/scada-m.PNG)
