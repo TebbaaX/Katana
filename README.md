@@ -30,4 +30,4 @@ Google mode gives you 2 inputs the "Dork" and the "TLD" (Top Level Domain) that 
 
 e.g : com for Usa / co.ma for Morocoo / be for Belgium
 
-For more please see the included TLDs.txt file
+For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/Katana/blob/master/TLDs.txt) file
