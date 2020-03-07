@@ -30,4 +30,4 @@ Google mode gives you 2 inputs the "Dork" and the "TLD" (Top Level Domain) that 
 
 e.g : com for Usa / co.ma for Morocoo / be for Belgium
 
-for more please see the TLDs.txt file
+for more please see the included TLDs.txt file
