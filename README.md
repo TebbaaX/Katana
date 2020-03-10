@@ -39,3 +39,8 @@ Scada mode search in google for online PLCs this actually use multiple requests 
 so changing the TLD will solve the probleme and the script provides inputs for that.
 
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/scada-m.PNG)
+
+
+Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html) PLC dashboard found using Scada Mode
+
+![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/e.g.PNG)
