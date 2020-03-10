@@ -45,7 +45,10 @@ Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html
 
 ![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/e.g.PNG)
 
-## Tor Mode : [![Github All Releases](http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-8/256/Tor-icon.png)]()
+## Tor Mode :
+
+[![Github All Releases](http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-8/256/Tor-icon.png)]()
+
 Tor mode gives you 1 input wich is the search query but before you should have tor proxy running on port 9050 
 this time there is no ip blocking the script search in 3 tor search engines Phobos,Tor66 and Tordex (more will be added) 
 
