@@ -44,3 +44,9 @@ so changing the TLD will solve the probleme and the script provides inputs for t
 Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html) PLC dashboard found using Scada Mode
 
 ![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/e.g.PNG)
+
+## Tor Mode :
+Tor mode gives you 1 input wich is the search query but before you should have tor proxy running on port 9050 
+this time there is no ip blocking the script search in 3 tor search engines Phobos,Tor66 and Tordex (more will be added) 
+
+
