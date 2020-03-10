@@ -49,4 +49,4 @@ Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html
 Tor mode gives you 1 input wich is the search query but before you should have tor proxy running on port 9050 
 this time there is no ip blocking the script search in 3 tor search engines Phobos,Tor66 and Tordex (more will be added) 
 
-![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/TNSE.jpg)
+
