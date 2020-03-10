@@ -37,6 +37,7 @@ For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/K
 ## Scada Mode :
 Scada mode search in google for online PLCs this actually use multiple requests so your ip will be blocked by Google
 so changing the TLD will solve the probleme and the script provides inputs for that.
+!> this is just an example it shows a lot of results
 
 ![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/scada-m.PNG)
 
@@ -51,5 +52,8 @@ Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html
 
 Tor mode gives you 1 input wich is the search query but before you should have tor proxy running on port 9050 
 this time there is no ip blocking the script search in 3 tor search engines Phobos,Tor66 and Tordex (more will be added) 
+!> this is just an example it shows a lot of results
+
+![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/tor.PNG)
 
 
