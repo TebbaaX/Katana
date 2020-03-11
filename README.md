@@ -59,8 +59,17 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 ![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/tor.PNG)
 
 ## What if :
-- the script print 'Error too many requests'           : change the TLD
-- changing the TLD don't work                          : change your ip by disconnect and reconnecting again
+- The script print 'Error too many requests'           : change the TLD
+- Changing the TLD don't work                          : change your ip by disconnecting and reconnecting again
 - Tor mode show 'Failed to establish a new connection' : make sure that tor proxy up and running on port 9050
 
+## Soon :
+- More Scada Dorks
+- More Tor search engines
+- More modes
+- Proxy support for Google mode
+- Proxy support for Scada mode
+and More...
 
+##  License :
+MIT
