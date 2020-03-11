@@ -1,0 +1,7 @@
+requests
+proxybroker
+google
+termcolor
+txtorcon
+colorama
+bs4
