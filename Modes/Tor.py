@@ -1,5 +1,5 @@
 # @name:    Katana-DorkScanner
-# @repo:    https://github.com/adnane-X-tebbaa/Katana-ds
+# @repo:    https://github.com/adnane-X-tebbaa/Katana
 # @author:  Adnane tebbaa (AXT)
 # Tor-file V0.1
 """
