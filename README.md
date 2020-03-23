@@ -1,5 +1,5 @@
 # Katana-ds 
-[![Github All Releases](https://img.shields.io/badge/Katana--ds-Version%201.3-red)]()
+[![Github All Releases](https://img.shields.io/badge/Katana--ds-Version%201.5-red)]()
 [![Github All Releases](https://img.shields.io/badge/support-python%203.x-brightgreen)]()
 [![Github All Releases](https://img.shields.io/badge/Supported%20OS-Windows%2FLinux-brightgreen)]()
 
@@ -24,6 +24,9 @@ Options :
 -g :for google mode
 -s :for scada mode
 -t :for tor mode
+-p :for proxy mode
+-b :for bitly mode
+
 ```
 ## Google Mode :
 Google mode gives you 2 inputs the "Dork" and the "TLD" (Top Level Domain) that gives you ability to search in specific countries.
