@@ -76,6 +76,14 @@ Proxy mode find proxy servers and print them it will print 25 Different Proxy se
 ## Bitly Mode : (In Development)
 Find intersting shorted links that somtimes lead to intersting website pages 
 the script print currently 10 bitly links with their responses
-(script still in development if you got error just run it again)
+(script still in development if you got connection error or so many 404,403 just run it again)
 
 ![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/bitly_mode.PNG)
+
+## Special thanks to :
+[LuongPhuHoa](https://github.com/adnane-X-tebbaa/Katana/issues/1) for the Recommendation
+
+plase feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX)
+
+## License
+[MIT](https://github.com/adnane-X-tebbaa/Katana/blob/master/LICENSE.txt)
