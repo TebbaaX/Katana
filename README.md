@@ -1,8 +1,6 @@
 # Katana-ds 
 [![Github All Releases](https://img.shields.io/badge/Katana--ds-Version%201.5-red)]()
-
 [![Github All Releases](https://img.shields.io/badge/support-python%203.x-brightgreen)]()
-
 [![Github All Releases](https://img.shields.io/badge/Supported%20OS-Windows%2FLinux-brightgreen)]()
 
 Katana-ds (ds for dork_scanner) is a simple python tool that automates Google Hacking/Dorking and support Tor  
@@ -83,7 +81,7 @@ the script print currently 10 bitly links with their responses
 ## Special thanks to :
 [LuongPhuHoa](https://github.com/adnane-X-tebbaa/Katana/issues/1) for the Recommendation
 
-plase feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX)
+## plase feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX)
 
 ## License
 [MIT](https://github.com/adnane-X-tebbaa/Katana/blob/master/LICENSE.txt)
