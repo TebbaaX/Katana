@@ -66,13 +66,8 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 - Changing the TLD don't work                          : change your ip by disconnecting and reconnecting again
 - Tor mode show 'Failed to establish a new connection' : make sure that tor proxy up and running on port 9050
 
-## Soon :
-- More Scada Dorks
-- More Tor search engines
-- More modes
-- Proxy support for Google mode
-- Proxy support for Scada mode
-and More...
+## Proxy Mode :
+Proxy mode find proxy servers and print them it will print 25 Different Proxy server Each time 
+![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/proxy_mode.PNG)
 
-##  License :
-MIT
+
