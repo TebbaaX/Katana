@@ -81,7 +81,7 @@ the script print currently 10 bitly links with their responses
 ## Special thanks to :
 [LuongPhuHoa](https://github.com/adnane-X-tebbaa/Katana/issues/1) for the Recommendation
 
-## plase feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX)
+#### please feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX)
 
 ## License
 [MIT](https://github.com/adnane-X-tebbaa/Katana/blob/master/LICENSE.txt)
