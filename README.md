@@ -1,4 +1,4 @@
-# Katana-ds 
+# Katana-ds (dork scanner)
 [![Github All Releases](https://img.shields.io/badge/Katana--ds-Version%201.5-red)]()
 [![Github All Releases](https://img.shields.io/badge/support-python%203.x-brightgreen)]()
 [![Github All Releases](https://img.shields.io/badge/Supported%20OS-Windows%2FLinux-brightgreen)]()
@@ -6,7 +6,7 @@
 Katana-ds (ds for dork_scanner) is a simple python tool that automates Google Hacking/Dorking and support Tor  
 It becomes a more powerfull in combination with [GHDB](https://www.exploit-db.com/google-hacking-database)
 
-![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/img1.jpg)
+![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/img1.jpg)
 
 ## Installation :
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements
@@ -48,7 +48,7 @@ so changing the TLD will solve the probleme and the script provides inputs for t
 
 Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html) PLC dashboard found using Scada Mode
 
-![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/e.g.PNG)
+![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/e.g.PNG)
 
 ## Tor Mode : (supported by python 3.7 and 3.8) 
 
@@ -59,7 +59,7 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 
 -!> this is just an example actually it shows a lot of results
 
-![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/tor.PNG)
+![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/tor_mode.gif)
 
 ## What if :
 - The script print 'Error too many requests'           : change the TLD
@@ -69,14 +69,14 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 ## Proxy Mode :(supported by python 3.7 only ) 
 Proxy mode find proxy servers and print them it will print 25 Different Proxy server Each time 
 
-![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/proxy_mode.PNG)
+![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/proxy_mode.gif)
 
 ## Bitly Mode : (In Development) (supported by python 3.7 and 3.8) 
 Find intersting shorted links that sometimes lead to intersting website pages 
 the script print currently 10 bitly links with their responses
 (script still in development if you got connection error or so many 404,403 just run it again)
 
-![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/bitly_mode.PNG)
+![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/bitly_mode.gif)
 
 ## Special thanks to :
 [LuongPhuHoa](https://github.com/adnane-X-tebbaa/Katana/issues/1) for the Recommendation
