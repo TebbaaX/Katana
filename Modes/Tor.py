@@ -40,7 +40,7 @@ T = """
 
   _____
  |_   _|__  _ __
-   | |/ _ \| '__| Katana-ds V1.3
+   | |/ _ \| '__| Katana-ds V1.5
    | | (_) | |    Tor Mode
    |_|\___/|_|    Coded by Adnane-X-Tebbaa (AXT)
              
