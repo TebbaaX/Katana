@@ -50,7 +50,7 @@ NPP = """
         ( ( (                   
       ) ) )                   
    (~~~~~~~~~)                
-    | POWER |    Katana-ds V1.3              
+    | POWER |    Katana-ds V1.5              
     |       |    Find online PLCs             
     |      _._   by AXT (adnane-X-tebbaa)             
     |    /    `\            
