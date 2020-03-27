@@ -12,8 +12,8 @@ It becomes a more powerfull in combination with [GHDB](https://www.exploit-db.co
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements
 ```bash
 cd Katana
-python3 pip install -r requirements.txt
-python3 katana-ds.py 
+python3 -m pip install -r requirements.txt
+python3 kds.py 
 ```
 ### Tested on Windows [ConEmu](https://conemu.github.io/) [![Github All Releases](https://conemu.github.io/img/logo.png)]() 
 ## Usage :
