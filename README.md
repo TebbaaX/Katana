@@ -19,7 +19,7 @@ python3 katana-ds.py
 ## Usage :
 ```bash
 cd Katana
-python3 katana-ds.py -h (for help)
+python3 kds.py -h (for help)
 Options :
 -g :for google mode
 -s :for scada mode
