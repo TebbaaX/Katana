@@ -35,7 +35,7 @@ e.g : com for Usa / co.ma for Morocoo / be for Belgium
 
 For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/Katana/blob/master/TLDs.txt) file.
 
-![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/google-m.PNG)
+![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/google_mode.gif)
 
 ## Scada Mode :
 Scada mode search in google for online PLCs this actually use multiple requests so your ip will be blocked by Google
@@ -43,7 +43,7 @@ so changing the TLD will solve the probleme and the script provides inputs for t
 
 -!> this is just an example actually it shows a lot of results
 
-![Alt text](https://raw.githubusercontent.com/adnane-X-tebbaa/Katana/master/imgs/scada-m.PNG)
+![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/scada_mode.gif)
 
 
 Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html) PLC dashboard found using Scada Mode
