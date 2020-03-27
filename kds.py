@@ -46,7 +46,7 @@ A = """
                     R                                                           V1.5
                     |
                     
-    Katana Dork Scanner (Katana-DS) coded by adnane tebbaa 
+    Katana Dork Scanner (Katana-DS) coded by adnane-X-tebbaa 
     please use -h to see help
     """
 print ("")
