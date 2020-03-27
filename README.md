@@ -28,7 +28,7 @@ Options :
 -b :for bitly mode
 
 ```
-## Google Mode :
+## Google Mode : (supported by python 3.7 and 3.8)
 Google mode gives you 2 inputs the "Dork" and the "TLD" (Top Level Domain) that gives you ability to search in specific countries.
 
 e.g : com for Usa / co.ma for Morocoo / be for Belgium
@@ -37,7 +37,7 @@ For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/K
 
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/google_mode.gif)
 
-## Scada Mode :
+## Scada Mode : (supported by python 3.7 and 3.8) 
 Scada mode search in google for online PLCs this actually use multiple requests so your ip will be blocked by Google
 so changing the TLD will solve the probleme and the script provides inputs for that.
 
@@ -50,7 +50,7 @@ Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html
 
 ![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/e.g.PNG)
 
-## Tor Mode :
+## Tor Mode : (supported by python 3.7 and 3.8) 
 
 [![Github All Releases](http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-8/256/Tor-icon.png)]()
 
@@ -66,12 +66,12 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 - Changing the TLD don't work                          : change your ip by disconnecting and reconnecting again
 - Tor mode show 'Failed to establish a new connection' : make sure that tor proxy up and running on port 9050
 
-## Proxy Mode :
+## Proxy Mode :(supported by python 3.7 only ) 
 Proxy mode find proxy servers and print them it will print 25 Different Proxy server Each time 
 
 ![Alt text](https://github.com/adnane-X-tebbaa/Katana/blob/master/imgs/proxy_mode.PNG)
 
-## Bitly Mode : (In Development)
+## Bitly Mode : (In Development) (supported by python 3.7 and 3.8) 
 Find intersting shorted links that sometimes lead to intersting website pages 
 the script print currently 10 bitly links with their responses
 (script still in development if you got connection error or so many 404,403 just run it again)
