@@ -46,7 +46,7 @@ O = """
 """
 
 print (O) 
-print(colored('Note: the script still in dev', 'red', 'on_grey'))
+print(colored('Note: the script still in dev', 'red' ))
 Xbeta = "https://bit.ly/"
 resp = requests.get(Xbeta)
 print("[+] got :" , resp.status_code )
