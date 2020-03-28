@@ -20,7 +20,7 @@ B = """
 """
 print(B)
 print ("")
-print(colored('[+] This will find 25 Different working Proxy server Each time :', 'green', 'on_grey')) 
+print(colored('[+] This will find 25 Different working Proxy server Each time :', 'green')) 
 print(colored('[+] Starting...', 'green', 'on_grey'))
 
 async def show(proxies):
@@ -39,5 +39,5 @@ tasks = asyncio.gather(
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(tasks)
-print(colored('[+] Done', 'green', 'on_grey'))
+print(colored('[+] Done', 'green'))
 
