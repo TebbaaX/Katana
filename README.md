@@ -61,10 +61,11 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/tor_mode.gif)
 
-## What if :
-- The script print 'Error too many requests'           : change the TLD
-- Changing the TLD don't work                          : change your ip by disconnecting and reconnecting again
-- Tor mode show 'Failed to establish a new connection' : make sure that tor proxy up and running on port 9050
+![Alt text](http://icons.iconarchive.com/icons/google/noto-emoji-symbols/256/73028-warning-icon.png) ## What if :
+- The script print 'HTTP Error 429 too many requests'           : change the TLD
+- The script print 'urllib.error.URLError Errno 1104'           : chek if the TLD is true
+- Changing the TLD don't work                                   : change your ip by disconnecting and reconnecting again
+- Tor mode show 'Failed to establish a new connection'          : make sure that tor proxy up and running on port 9050
 
 ## Proxy Mode :(supported by python 3.7 only ) 
 Proxy mode find proxy servers and print them it will print 25 Different Proxy server Each time 
