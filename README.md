@@ -15,7 +15,7 @@ cd Katana
 python3 -m pip install -r requirements.txt
 python3 kds.py 
 ```
-### Tested on Windows [ConEmu](https://conemu.github.io/) [![Github All Releases](https://conemu.github.io/img/logo.png)]() 
+### Tested on Windows [ConEmu](https://conemu.github.io/)  [![Github All Releases](https://conemu.github.io/img/logo.png)]() 
 ## Usage :
 ```bash
 cd Katana
@@ -72,7 +72,7 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 - Tor mode show 'Failed to establish a new connection' :          
 **make sure that tor proxy up and running on port 9050**
 
-## Proxy Mode :(supported by python 3.7 only ) 
+## Proxy Mode : (supported by python 3.7 only ) 
 Proxy mode find proxy servers and print them it will print 25 Different Proxy server Each time 
 
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/proxy_mode.gif)
