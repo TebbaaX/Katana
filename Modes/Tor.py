@@ -193,6 +193,6 @@ soup = BeautifulSoup(page.text, 'html.parser')
 tags = soup.find_all('a', attrs={'href': re.compile("^http://")})
 for tag in tags:
   print (tag.get('href'))  
-print(colored('[+] Done from Tordex', 'yellow', 'on_grey'))
+print(colored('[+] Done from Tordex', 'yellow' ))
 
   
