@@ -61,7 +61,8 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/tor_mode.gif)
 
-![Alt text](http://icons.iconarchive.com/icons/google/noto-emoji-symbols/256/73028-warning-icon.png) ## What if :
+![Alt text](http://icons.iconarchive.com/icons/graphicrating/koloria/32/Warning-2-icon.png) 
+## What if :
 - The script print 'HTTP Error 429 too many requests'           : change the TLD
 - The script print 'urllib.error.URLError Errno 1104'           : chek if the TLD is true
 - Changing the TLD don't work                                   : change your ip by disconnecting and reconnecting again
