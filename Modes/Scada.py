@@ -65,7 +65,7 @@ __/_____|___||__|||___|____|__________________________________________
 
 print (NPP)
 print (" ")
-beta = input (colored('[>] Please set a TLD : ', 'red', 'on_grey')) ###TLD1
+beta = input (colored('[>] Please set a TLD : ', 'red' )) ###TLD1
 print(colored('[+] Searching ', 'green', 'on_grey')) 
 B =  """ intitle:"Rockwell Automation" "Device Name" "Uptime" """
 query = B
@@ -88,7 +88,7 @@ print(colored('[+] 18% done ', 'green', 'on_grey'))
 print(colored('[+] 27% done', 'green', 'on_grey'))     
 print(colored('[+] 36% done', 'green', 'on_grey'))
  
-betax = input (colored('[>] Please set a new TLD to avoid ip blocking : ', 'red', 'on_grey')) ### TLD2
+betax = input (colored('[>] Please set a new TLD to avoid ip blocking : ' , 'red' )) ### TLD2
  
 B = """ inurl:dtm.html intitle:1747-L551 """
 query = B
