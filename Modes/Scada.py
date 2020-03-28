@@ -107,13 +107,13 @@ for _ in range(100):
 #*****
 for gamma in search(query, tld=betax, num=10,stop=50,pause=2): 
      print(colored ('[+] Found > ' ,'yellow')  + (gamma) )    
-print(colored('[+] 45% done ', 'green', 'on_grey')) # more scada dorks will be added here
-print(colored('[+] 54% done ', 'green', 'on_grey')) #some dorks removed because ip blocking    
-print(colored('[+] 63% done', 'green', 'on_grey'))  # but the problme solved 
-print(colored('[+] 72% done', 'green', 'on_grey'))  # update soon
-print(colored('[+] 81% done', 'green', 'on_grey'))
-print(colored('[+] 90% done...', 'green', 'on_grey'))
-print(colored('[+] 100% done...', 'green', 'on_grey'))
+print(colored('[+] 45% done ', 'green' )) # more scada dorks will be added here
+print(colored('[+] 54% done ', 'green' )) #some dorks removed because ip blocking    
+print(colored('[+] 63% done', 'green' ))  # but the problme solved 
+print(colored('[+] 72% done', 'green' ))  # update soon
+print(colored('[+] 81% done', 'green' ))
+print(colored('[+] 90% done...', 'green' ))
+print(colored('[+] 100% done...', 'green' ))
    
 
 
