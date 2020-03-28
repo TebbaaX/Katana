@@ -97,5 +97,5 @@ try :
  a ()
 except requests.exceptions.RequestException as e: 
  print(colored('got an ERROR...Overriding...:', 'green', 'on_grey'))  
- print(colored('[>] Sleeping for 5s :', 'yellow', 'on_grey' , resp.status_code))
+ print(colored('[>] Sleeping for 5s :', 'yellow' , resp.status_code))
  a ()  
