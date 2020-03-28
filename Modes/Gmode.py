@@ -62,9 +62,9 @@ A = """
 print ("")
 print(A)
 
-alpha = input (colored('[>] Please set a Dork : ', 'green', 'on_grey')) 
+alpha = input (colored('[>] Please set a Dork : ', 'green' )) 
 query = alpha
-beta = input (colored('[>] Please set a TLD : ', 'green', 'on_grey')) 
+beta = input (colored('[>] Please set a TLD : ', 'green' )) 
     
 for gamma in search(query, tld=beta, num=7,pause=2): 
      print(colored ('[+] Found > ' ,'yellow')  + (gamma) )
