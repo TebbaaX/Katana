@@ -46,15 +46,15 @@ T = """
              
     """
 print(T)
-print(colored('[!] Tor proxy must be on port 9050 ', 'yellow', 'on_grey')) 
-print(colored('[+] Checking TOR... ', 'green', 'on_grey')) 
+print(colored('[!] Tor proxy must be on port 9050 ', 'yellow' )) 
+print(colored('[+] Checking TOR... ', 'green' )) 
 #search launch**
 
 session = requests.session()
 session.proxies = {'http':  'socks5h://localhost:9050',
                    'https': 'socks5h://localhost:9050'}
 print(session.get('http://httpbin.org/ip').text) 
-print(colored('[+] Got session... ', 'green', 'on_grey'))
+print(colored('[+] Got session... ', 'green' ))
 ###################################################################################################### 
 print ("") 
 xquery = input ("Please set your query : ") 
@@ -65,7 +65,7 @@ xquery = input ("Please set your query : ")
 ##### Phobos
 #####
 print ("")
-print(colored('[+] Searching in "Phobos" http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion...  ', 'green', 'on_grey'))
+print(colored('[+] Searching in "Phobos" http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion...  ', 'green' ))
 session.get("http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/search?query=" + xquery + "&p=1" )
 page = session.get("http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/search?query="+ xquery + "&p=1" )
 soup = BeautifulSoup(page.text, 'html.parser')
@@ -144,25 +144,25 @@ soup = BeautifulSoup(page.text, 'html.parser')
 tags = soup.find_all('a', attrs={'href': re.compile("^http://")})
 for tag in tags:
   print (tag.get('href'))
-print(colored('[+] Done from Phobos', 'yellow', 'on_grey'))
+print(colored('[+] Done from Phobos', 'yellow' ))
 
 #####
 ##### TOR66
 ##### 
 print ("")
-print(colored('[+] Searching in "TOR66" http://tor77orrbgejplwp.onion... ', 'green', 'on_grey'))
+print(colored('[+] Searching in "TOR66" http://tor77orrbgejplwp.onion... ', 'green' ))
 session.get("http://tor77orrbgejplwp.onion/search?q=" + xquery + "&sorttype=rel&page=1" )
 page = session.get("http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/search?query="+ xquery + "&sorttype=rel&page=1" )
 soup = BeautifulSoup(page.text, 'html.parser')
 tags = soup.find_all('a', attrs={'href': re.compile("^http://")})
 for tag in tags:
   print (tag.get('href'))
-print(colored('[+] Done from TOR66', 'yellow', 'on_grey'))
+print(colored('[+] Done from TOR66', 'yellow' ))
 print ("")  
 #####
 ##### TOrdex
 ##### 
-print(colored('[+] Searching in "Tordex" http://tordex7iie7z2wcg.onion  ', 'green', 'on_grey')) 
+print(colored('[+] Searching in "Tordex" http://tordex7iie7z2wcg.onion  ', 'green' )) 
 session.get("http://tordex7iie7z2wcg.onion/search?query=" + xquery + "&page=1" )
 page = session.get("http://tordex7iie7z2wcg.onion/search?query="+ xquery + "&page=1" )
 soup = BeautifulSoup(page.text, 'html.parser')
