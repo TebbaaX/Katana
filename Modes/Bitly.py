@@ -50,7 +50,7 @@ print(colored('Note: the script still in dev', 'red' ))
 Xbeta = "https://bit.ly/"
 resp = requests.get(Xbeta)
 print("[+] got :" , resp.status_code )
-print(colored('[+] bit.ly is up', 'green', 'on_grey'))
+print(colored('[+] bit.ly is up', 'green' ))
 def a () :
  randomString1 = strgen.StringGenerator("[\w\c]{5}").render()
  randomString2 = strgen.StringGenerator("[\w\c]{5}").render()
