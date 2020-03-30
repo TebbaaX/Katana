@@ -69,7 +69,7 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 - The script print 'urllib.error.URLError Errno 1104' :            
 **chek if the TLD is true**
 - Changing the TLD don't work :                                    
-**change your ip by disconnecting and reconnecting again or use a good vpn **
+**change your ip by disconnecting and reconnecting again or use a good vpn**
 - Tor mode show 'Failed to establish a new connection' :          
 **make sure that tor proxy up and running on port 9050**
 
