@@ -26,8 +26,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 """
-import requests # in DEV
-import proxybroker # in DEV
+import requests 
+import proxybroker
 from googlesearch import search
 import os
 import sys
