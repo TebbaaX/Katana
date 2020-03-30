@@ -29,7 +29,7 @@ SOFTWARE.
 import requests # in DEV
 import proxybroker # in DEV
 from googlesearch import search
-import sys
+from os import system
 import sys
 from termcolor import colored, cprint
 import warnings
