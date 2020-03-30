@@ -33,15 +33,10 @@ import sys
 import os
 import time
 from googlesearch import search
-import sys
 from termcolor import colored, cprint
 
 def clear(): 
-  
-    if name == 'nt': 
-        _ = system('cls') 
-    else: 
-        _ = system('clear') 
+    return os.system('cls' if os.name == 'nt' else 'clear')
        
 
 NPP = """ 
