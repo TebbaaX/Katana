@@ -29,7 +29,7 @@ SOFTWARE.
 import requests # in DEV
 import proxybroker # in DEV
 from googlesearch import search
-from os import system
+import os
 import sys
 from termcolor import colored, cprint
 import warnings
@@ -42,14 +42,9 @@ with warnings.catch_warnings():
     fxn()
 
 def clear(): 
-  
-    if name == 'nt': 
-        _ = system('cls') 
-    else: 
-        _ = system('clear') 
-        
-        
-    
+    return os.system('cls' if os.name == 'nt' else 'clear')
+
+
 print ("")
 
 A = """
