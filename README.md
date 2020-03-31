@@ -34,9 +34,10 @@ Options :
 - No need to set the TLD in Scada Mode
 - More Scada Results (after adding More dorks)
 - Partially solved the HTTP Errors (see what if section)
+- Proxy Mode will display 100 proxy server each time
 
 ## Google Mode : (supported by python 3.7 and 3.8)
-Google mode gives you 1 input set the "Dork"  
+Google mode gives you 1 input to set the "Dork"  
 
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/google_mode.gif)
 
