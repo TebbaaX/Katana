@@ -7,4 +7,3 @@ colorama
 bs4
 StringGenerator
 pysocks
-http
