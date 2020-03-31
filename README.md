@@ -1,6 +1,6 @@
 # Katana-ds (dork scanner)
 [![Github All Releases](https://img.shields.io/badge/Katana--ds-Version%201.5-red)]()
-[![Github All Releases](https://img.shields.io/badge/support-python%203.x-brightgreen)]()
+[![Github All Releases](https://img.shields.io/badge/support-python%203.7%2F3.8%20%2B-brightgreen)]()
 [![Github All Releases](https://img.shields.io/badge/support%20-windows%20%7C%20linux-brightgreen)]()
 [![Github All Releases](https://img.shields.io/twitter/follow/TebbaaX)]()
 
