@@ -57,7 +57,7 @@ A = """
 ,_._._._._._._._._|__________________________________________________________
 |G|o|o|g|l|e|_|_|_|_________________________________________________________/
                   |
-    Katana dork scanner (Katana-ds V1.5.2) coded by adnane-X-tebbaa 
+    Katana dork scanner (Katana-ds V1.5.3) coded by adnane-X-tebbaa 
     Google Mode
 """
 print ("")
