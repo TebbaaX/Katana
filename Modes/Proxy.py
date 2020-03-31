@@ -13,7 +13,7 @@ import os
 B = """
  ____
 |  _ \ _ __ _____  ___   _
-| |_) | '__/ _ \ \/ / | | |    Katana-ds V1.5
+| |_) | '__/ _ \ \/ / | | |    Katana-ds V1.5.3
 |  __/| | | (_) >  <| |_| |    Proxy Mode
 |_|   |_|  \___/_/\_\\__,  |   Coded by Adnane-X-tebbaa (AXT) 
                      |___/
@@ -34,7 +34,7 @@ async def show(proxies):
 proxies = asyncio.Queue()
 broker = Broker(proxies)
 tasks = asyncio.gather(
-    broker.find(types=['HTTP', 'HTTPS'], limit=25 ), show(proxies)
+    broker.find(types=['HTTP', 'HTTPS'], limit=100 ), show(proxies)
 )
 
 loop = asyncio.get_event_loop()
