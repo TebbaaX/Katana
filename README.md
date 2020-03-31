@@ -29,8 +29,7 @@ Options :
 
 ```
 ## Google Mode : (supported by python 3.7 and 3.8)
-Google mode gives you 1 input the "Dork" 
-e.g : com for Usa / co.ma for Morocoo / be for Belgium
+Google mode gives you 1 input the "Dork"  
 
 For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/Katana/blob/master/TLDs.txt) file.
 
@@ -79,7 +78,7 @@ Proxy mode find proxy servers and print them it will print 100 Different Proxy s
 ## Special thanks to :
 [LuongPhuHoa](https://github.com/adnane-X-tebbaa/Katana/issues/1) for the Recommendation
 
-#### please feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX)
+#### please feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX) or [facebook](https://fr-fr.facebook.com/adnane.tebbaa.14) 
 
 ## License
 [MIT](https://github.com/adnane-X-tebbaa/Katana/blob/master/LICENSE.txt)
