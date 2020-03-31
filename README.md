@@ -28,13 +28,20 @@ Options :
 -p :for proxy mode
 
 ```
+## What's new in Katana-ds V1.5.3 :
+
+- No need to set the TLD in google Mode
+- No need to set the TLD in Scada Mode
+- More Scada Results (after adding More dorks)
+- Partially solved the HTTP Errors (see what if section)
+
 ## Google Mode : (supported by python 3.7 and 3.8)
-Google mode gives you 1 input the "Dork"  
+Google mode gives you 1 input set the "Dork"  
 
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/google_mode.gif)
 
 ## Scada Mode : (supported by python 3.7 and 3.8) 
-Scada mode search in google for online PLCs 
+Scada mode search in google for online Scada devices 
 
 -!> this is just an example actually it shows a lot of results
 
@@ -72,9 +79,6 @@ this time there is no ip blocking the script search in 3 tor search engines Phob
 Proxy mode find proxy servers and print them it will print 100 Different Proxy server Each time
 
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/proxy_mode.gif)
-
-## Special thanks to :
-[LuongPhuHoa](https://github.com/adnane-X-tebbaa/Katana/issues/1) for the Recommendation
 
 #### please feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX) or [facebook](https://fr-fr.facebook.com/adnane.tebbaa.14) 
 
