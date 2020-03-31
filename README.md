@@ -31,8 +31,6 @@ Options :
 ## Google Mode : (supported by python 3.7 and 3.8)
 Google mode gives you 1 input the "Dork"  
 
-For more please see the included [TLDs.txt](https://github.com/adnane-X-tebbaa/Katana/blob/master/TLDs.txt) file.
-
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/google_mode.gif)
 
 ## Scada Mode : (supported by python 3.7 and 3.8) 
