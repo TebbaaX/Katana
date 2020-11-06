@@ -89,7 +89,7 @@ Proxy mode find proxy servers and print them it will print 100 Different Proxy s
 
 ![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/proxy_mode.gif)
 
-## Please feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX) or [facebook](https://fr-fr.facebook.com/adnane.tebbaa.14)
+## Please feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX) 
 
 ## License
 
