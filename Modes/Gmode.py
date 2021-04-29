@@ -26,8 +26,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 """
-import requests 
-import proxybroker 
+import requests
+import proxybroker
 from googlesearch import search
 import sys
 import sys
@@ -35,24 +35,31 @@ import os
 from termcolor import colored, cprint
 import warnings
 import random
-from http import cookiejar  
+from http import cookiejar
+import time
+
+
 class BlockAll(cookiejar.CookiePolicy):
-    return_ok = set_ok = domain_return_ok = path_return_ok = lambda self, *args, **kwargs: False
+    return_ok = set_ok = domain_return_ok = path_return_ok = lambda self, * \
+        args, **kwargs: False
     netscape = True
     rfc2965 = hide_cookie2 = False
-    
+
+
 def fxn():
     warnings.warn("deprecated", DeprecationWarning)
+
 
 with warnings.catch_warnings():
     warnings.simplefilter("ignore")
     fxn()
 
-def clear(): 
+
+def clear():
     return os.system('cls' if os.name == 'nt' else 'clear')
-        
-    
-print ("")
+
+
+print("")
 
 A = """
 ,_._._._._._._._._|__________________________________________________________
@@ -61,17 +68,46 @@ A = """
     Katana dork scanner (Katana-ds V1.5.3) coded by adnane-X-tebbaa 
     Google Mode
 """
-print ("")
+print("")
 print(A)
-TLD = ["com","com.tw","co.in","be","de","co.uk","co.ma","dz","ru","ca"]
+TLD = ["com", "com.tw", "co.in", "be", "de",
+       "co.uk", "co.ma", "dz", "ru", "ca"]
 s = requests.Session()
 s.cookies.set_policy(BlockAll())
-alpha = input (colored('[>] Please set a Dork : ', 'green' )) 
-query = alpha
-beta =  random.choice(TLD)   
+alpha = input(colored('[>] Please set a Dork : ', 'green'))
 
-    
-for gamma in search(query, tld=beta, num=10 , stop=95 , pause=2): 
-    print(colored ('[+] Found > ' ,'yellow')  + (gamma) )
-print(colored ('[+] Done  ' ,'green'))
-os.remove("./.google-cookie")
+
+def worker(dork, ss):
+    query = dork
+    beta = random.choice(TLD)
+    for gamma in search(query, tld=beta, num=10, stop=95, pause=2):
+        print(colored('[+] Found > ', 'yellow') + (gamma))
+        if ss:
+            ss.write(gamma+"\n")
+    print(colored('[+] Done  ', 'green'))
+    os.remove("./.google-cookie")
+
+
+save_state = False
+
+if alpha[-3:] == " \s":
+    save_state = True
+    alpha = alpha[:-3]
+
+result = ""
+if save_state:
+    result = open('./result'+str(time.time())+".txt", 'w+')
+if alpha[0:4] == "\\f: ":
+    fName = "./"+alpha[4:]
+    f = open(fName, 'r')
+    dork = f.readline()
+    while dork:
+        print(colored('Working on dork : ' + dork, 'green'))
+        worker(dork, result)
+        dork = f.readline()
+    f.close()
+else:
+    worker(alpha, result)
+
+if save_state:
+    result.close()
