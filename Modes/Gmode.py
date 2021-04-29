@@ -31,6 +31,7 @@ import proxybroker
 from googlesearch import search
 import sys
 import sys
+import os
 from termcolor import colored, cprint
 import warnings
 import random
@@ -73,4 +74,4 @@ beta =  random.choice(TLD)
 for gamma in search(query, tld=beta, num=10 , stop=95 , pause=2): 
     print(colored ('[+] Found > ' ,'yellow')  + (gamma) )
 print(colored ('[+] Done  ' ,'green'))
-print(colored ('[! >] delete .google-cookie file in Katana DIR  ' ,'red')) 
+os.remove("./.google-cookie")
