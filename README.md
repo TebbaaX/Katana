@@ -44,7 +44,6 @@ Options :
 ## Google Mode : (supported by python 3.7 and 3.8)
 Google mode gives you 1 input to set the "Dork"
 
-![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/google_mode.gif)
 
 ## Scada Mode : (supported by python 3.7 and 3.8)
 
@@ -52,7 +51,6 @@ Scada mode search in google for online Scada devices
 
 -!> this is just an example actually it shows a lot of results
 
-![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/scada_mode.gif)
 
 
 Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html) PLC dashboard found using Scada Mode
@@ -67,7 +65,7 @@ Tor mode gives you 1 input which is the search query but before you should have 
 
 -!> this is just an example actually it shows a lot of results
 
-![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/tor_mode.gif)
+
 
 ![Alt text](http://icons.iconarchive.com/icons/graphicrating/koloria/32/Warning-2-icon.png)
 
@@ -87,7 +85,6 @@ Tor mode gives you 1 input which is the search query but before you should have 
 
 Proxy mode find proxy servers and print them it will print 100 Different Proxy server Each time
 
-![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/proxy_mode.gif)
 
 ## Please feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX) 
 
