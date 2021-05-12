@@ -55,7 +55,6 @@ Scada mode search in google for online Scada devices
 
 Example of [Allen-Bradley](https://ab.rockwellautomation.com/lang-selection.html) PLC dashboard found using Scada Mode
 
-![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/e.g.PNG)
 
 ## Tor Mode : (supported by python 3.7 and 3.8)
 
