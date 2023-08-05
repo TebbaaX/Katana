@@ -1,0 +1,19 @@
+Tor Net Search Engines :
+
+
+Phobos     :        http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion ***/Supported
+TorDex     :        http://tordex7iie7z2wcg.onion   ***/Supported
+Tor66      :        http://tor77orrbgejplwp.onion   ***/Supported
+NotEvil    :        http://hss3uro2hsxfogfq.onion   ***/ not yet
+AHMIA      :        http://msydqstlz2kzerdg.onion   ***/ not yet
+TNGSE      :        http://tgs5dkeqkg5hrjjk.onion   ***/ not yet
+Onion-Land :        http://3bbaaaccczcbdddz.onion   ***/ not yet
+Haystack   :        http://haystakvxad7wbk5.onion   ***/ not yet
+Abiko      :        http://abikogailmonxlzl.onion   ***/ not yet
+Searx      :        http://searx7gwtu5rh6wr.onion   ***/ not yet
+Sindbad    :        http://sinbad66644fr5lq.onion   ***/ not yet
+Caronte    :        http://carontevaha5x626.onion   ***/ not yet
+Dark Matter:        http://dark23456yyx57ny.onion   ***/ not yet
+OnionSearch:        http://5u56fjmxu63xcmbk.onion   ***/ not yet
+Gibberfish :        http://o2jdk5mdsijm2b7l.onion   ***/ not yet
+Pickle     :        http://k65nsnwos76xfwsj.onion   ***/ not yet
